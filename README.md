@@ -57,11 +57,20 @@ rqt
 The window will be blank for the first time use of rqt. Then you need to select Plugins > Services > Service from the menu bar at the top.
 ![image](https://github.com/sanjiblama28/Github/blob/main/15.PNG)
 
-Now, select the /spawn service where the /clear is seen and can also be used to select other services also and /spawn will help in creating another turtle in the turtlesim window by replacing the digit 0 with another digit and string name also needs to be written and the result can be seen in the response and the turtlesim window.
+## 5.1 Trying some of the services provided by service caller
+
+Select the /spawn service where the /clear is seen and can also be used to select other services also and /spawn will help in creating another turtle in the turtlesim window by replacing the digit 0 with another digit and string name also needs to be written and the result can be seen in the response and the turtlesim window.
 
 ![image](https://github.com/sanjiblama28/Github/blob/main/161.PNG)
 
 ![image](https://github.com/sanjiblama28/Github/blob/main/162.PNG)
+
+Now, using teleport_abosulte service as shown in the figure below.
+
+![image](https://github.com/sanjiblama28/Github/blob/main/s1.PNG)
+
+![image](https://github.com/sanjiblama28/Github/blob/main/s2.PNG)
+
 
 ## 6. RQT: rqt_console
 
