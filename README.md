@@ -1,10 +1,10 @@
 # Turtlesim
 The terminal that I am using is in ROS_DISTRO=foxy and can also be checked by the given command below.
+
 ```
 printenv | grep -i ROS
 ```
 (![image](https://github.com/sanjiblama28/Github/blob/main/11.PNG)
-
 
 ## 1. Turtlesim: Installation
 First of all,  making sure your system is up-to-date and then installing the turtlesim library along with checking that the package is installed by the following command.
