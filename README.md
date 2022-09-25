@@ -31,10 +31,13 @@ Now, the new terminal needs to be opened and the following command needs to be e
 ros2 run turtlesim turtle_teleop_key
 ```
 ![image](https://github.com/sanjiblama28/Github/blob/main/l.PNG)
+
 You should have three windows open at this point:
-•	a terminal running turtlesim_node 
-•	a terminal running turtle_teleop_key 
-•	the turtlesim window
+```
+a terminal running turtlesim_node 
+a terminal running turtle_teleop_key 
+the turtlesim window
+```
 
 #RQT
 ## 4. Installation of RQT
@@ -53,6 +56,6 @@ The window will be blank for the first time use of rqt. Then you need to select 
 
 Now, select the /spawn service where the /clear is seen and can also be used to select other services also and /spawn will help in creating another turtle in the turtlesim window by replacing the digit 0 with another digit and string name also needs to be written and the result can be seen in the response and the turtlesim window.
 
-![image](github.com/sanjiblama28/Github/blob/main/161.PNG)
+![image](https://github.com/sanjiblama28/Github/blob/main/161.PNG)
 
-![image](github.com/sanjiblama28/Github/blob/main/162.PNG)
+![image](https://github.com/sanjiblama28/Github/blob/main/162.PNG)
