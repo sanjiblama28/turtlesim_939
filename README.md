@@ -59,3 +59,16 @@ Now, select the /spawn service where the /clear is seen and can also be used to 
 ![image](https://github.com/sanjiblama28/Github/blob/main/161.PNG)
 
 ![image](https://github.com/sanjiblama28/Github/blob/main/162.PNG)
+
+## 6. RQT: rqt_console
+
+A GUI tool called rqt_console is used in ROS 2 to inspect log messages.
+With the following command, you can start rqt_console in a new terminal:
+```
+ros2 run rqt_console rqt_console
+```
+![image](https://github.com/sanjiblama28/Github/blob/main/17.PNG)
+The console's first part is where the system log messages from your system will appear.
+In the center, you can exclude severity levels to filter out messages.
+The mails with your custom string are highlighted in the bottom portion.
+
