@@ -39,7 +39,7 @@ a terminal running turtle_teleop_key
 the turtlesim window
 ```
 
-#RQT
+# RQT
 ## 4. Installation of RQT
 Now, You need to open a new terminal to make sure your system is up-to-date and then install the rqt library and its plugins and to use rqt by the given command below.
 
