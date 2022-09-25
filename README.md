@@ -49,6 +49,8 @@ sudo apt install ~nros-foxy-rqt*
 rqt
 ```
 ![image](https://github.com/sanjiblama28/Github/blob/main/141.PNG)
+![image](https://github.com/sanjiblama28/Github/blob/main/142.PNG)
+
 
 ## 5. RQT: Running 
 The window will be blank for the first time use of rqt. Then you need to select Plugins > Services > Service from the menu bar at the top.
@@ -68,6 +70,7 @@ With the following command, you can start rqt_console in a new terminal:
 ros2 run rqt_console rqt_console
 ```
 ![image](https://github.com/sanjiblama28/Github/blob/main/17.PNG)
+
 The console's first part is where the system log messages from your system will appear.
 In the center, you can exclude severity levels to filter out messages.
 The mails with your custom string are highlighted in the bottom portion.
