@@ -49,7 +49,8 @@ sudo apt install ~nros-foxy-rqt*
 rqt
 ```
 ![image](https://github.com/sanjiblama28/Github/blob/main/141.PNG)
-![image](https://github.com/sanjiblama28/Github/blob/main/142.PNG)
+
+![image](https://github.com/sanjiblama28/Github/blob/main/14.PNG)
 
 
 ## 5. RQT: Running 
