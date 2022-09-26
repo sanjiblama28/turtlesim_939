@@ -25,7 +25,8 @@ ros2 run turtlesim turtlesim_node
 Now, the simulator window appears along with a turtle in the center and messages from the node can be seen in the terminal.    
 
 ![image](https://github.com/sanjiblama28/Github/blob/main/13.PNG)
-## 3. Use Turtlesim
+
+## 3. Turtlesim: Using
 Now, the new terminal needs to be opened and the following command needs to be executed to control the turtle type.
 ```
 ros2 run turtlesim turtle_teleop_key
