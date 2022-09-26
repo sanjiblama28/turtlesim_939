@@ -57,7 +57,7 @@ rqt
 The window will be blank for the first time use of rqt. Then you need to select Plugins > Services > Service from the menu bar at the top.
 ![image](https://github.com/sanjiblama28/Github/blob/main/15.PNG)
 
-## 5.1 Trying some of the services provided by service caller
+## 5.1. Trying some of the services provided by service caller
 
 Select the /spawn service where the /clear is seen and can also be used to select other services also and /spawn will help in creating another turtle in the turtlesim window by replacing the digit 0 with another digit and string name also needs to be written and the result can be seen in the response and the turtlesim window.
 
@@ -85,3 +85,12 @@ The console's first part is where the system log messages from your system will 
 In the center, you can exclude severity levels to filter out messages.
 The mails with your custom string are highlighted in the bottom portion.
 
+## 7. ROS2 Nodes
+
+## 7.1. ROS2 Graph
+
+ A network of ROS 2 components processing data simultaneously makes up the ROS graph. If you were to map and visualize every executable, it would include all of their connections.
+ 
+ ![image](https://github.com/sanjiblama28/Github/blob/main/d1.PNG)
+ 
+ ![image](https://github.com/sanjiblama28/Github/blob/main/d2.PNG)
